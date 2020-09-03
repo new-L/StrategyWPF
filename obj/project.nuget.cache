@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bytEI2RzWViDzs1KkU3vGcLMhKHdOwAOMgvU2FFxRHuxHTmJHKG1EmDue8ZgidLVCgd7PtYxffP7C5udt2/CjA==",
+  "success": true,
+  "projectFilePath": "D:\\C#Project\\Patterns\\StrategyWPF\\StrategyWPF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\seyda\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\seyda\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
